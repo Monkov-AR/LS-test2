@@ -1,0 +1,12 @@
+.tableHeader{
+	display: grid;
+	height: 50px;
+	grid-template-columns: 30px 80px 500px 150px 80px 100px 100px 100px;
+	gap: 10px;
+}
+.grid_container {
+	display: grid;
+	grid-template-columns: 30px 80px 500px 150px 80px 100px 70px 70px;
+	height: 30px;
+	gap: 10px;
+}
